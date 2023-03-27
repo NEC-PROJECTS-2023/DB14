@@ -1,7 +1,8 @@
 Predicting Bank Loan Elligibility
-G MallikarjnaRao
-SK Mohammed Asif
-A Sairam Naik
+
+G MallikarjnaRao,
+SK Mohammed Asif,
+A Sairam Naik,
 V Rakesh
                         
                             Introduction
