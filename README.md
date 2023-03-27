@@ -1,11 +1,11 @@
-Predicting Bank Loan Elligibility
+                                 Predicting Bank Loan Elligibility
 
-G MallikarjnaRao,
-SK Mohammed Asif,
-A Sairam Naik,
-V Rakesh
+                                     G MallikarjnaRao,
+                                     SK Mohammed Asif,
+                                     A Sairam Naik,
+                                     V Rakesh
                         
-                            Introduction
+                                          Introduction
                            
 For financial institutions, determining whether a borrower will be eligible for a bank
 loan is a crucial step in determining their creditworthiness. In the past, banks have evaluated
