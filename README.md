@@ -72,4 +72,8 @@ trees, and random forests can be employed to create the model. The model's perfo
 be evaluated using metrics such as accuracy, precision, recall,
 Overall, the development of a predictive model for bank loan eligibility using machine
 learning can lead to more efficient and accurate loan approval processes, reduce the risk of
-defaults, and help financial institutions to better serve their customers.                                       
+defaults, and help financial institutions to better serve their customers.
+
+
+### Dataset
+Link - https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset
