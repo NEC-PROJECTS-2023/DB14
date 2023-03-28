@@ -1,0 +1,10 @@
+body {
+width: 100%;
+height: auto;
+}
+
+.container {
+    justify-content: center;
+    background-color: whitesmoke;
+    padding: 30px;
+}
